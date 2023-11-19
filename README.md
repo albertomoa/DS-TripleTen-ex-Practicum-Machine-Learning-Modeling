@@ -5,16 +5,16 @@ A summary of multiple projects within this repository
 
 ## Table of Contents
 
-1. [Project 7: Telecommunication Service Package](#project-7-project-one-name)
-2. [Project 8: Customer Churn Prediction](#project-8-project-two-name)
-3. [Project 9: OilyGiant Mining Prediction](#project-9-project-three-name)
-4. [Project 10: Zyfra - Au Concentrate Prediction](#project-10-project-four-name)
-5. [Project 11: Sure Tomorrow Insurance](#project-11-project-five-name)
-6. [Project 12: Rusty Bargain Car Sales Price Prediction](#project-12-project-three-name)
-7. [Project 13: Sweet Lift Taxi Order Quantity Prediction](#project-13-project-four-name)
-8. [Project 14: Junky Union](#project-14-project-five-name)
-9. [Project 15: Good Seed Supermarket](#project-15-
-10. [Final Project : SteelProof Manufacturer] (#final-project
+1. [Project 7: Telecommunication Service Package](#project-7-telecommunication-service-package)
+2. [Project 8: Customer Churn Prediction](#project-8-customer-churn-prediction)
+3. [Project 9: OilyGiant Mining Prediction](#project-9-oilygiant-mining-prediction)
+4. [Project 10: Zyfra - Au Concentrate Prediction](#project-10-zyfra-au-concentrate-prediction)
+5. [Project 11: Sure Tomorrow Insurance](#project-11-sure-tomorrow-insurance)
+6. [Project 12: Rusty Bargain Car Sales Price Prediction](#project-12-rusty-bargain-car-sales-price-prediction)
+7. [Project 13: Sweet Lift Taxi Order Quantity Prediction](#project-13-sweet-lift-taxi-order-quantity-prediction)
+8. [Project 14: Junky Union](#project-14-junky-union)
+9. [Project 15: Good Seed Supermarket](#project-15-good-seed-supermarket)
+10. [Final Project : SteelProof Manufacturer](#final-project-steelproof-manufacturer)
     
 ## Project 7: Telecommunication Service Package
 
