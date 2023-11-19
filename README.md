@@ -8,7 +8,7 @@ A summary of multiple projects within this repository
 1. [Project 7: Telecommunication Service Package](#project-7-telecommunication-service-package)
 2. [Project 8: Customer Churn Prediction](#project-8-customer-churn-prediction)
 3. [Project 9: OilyGiant Mining Prediction](#project-9-oilygiant-mining-prediction)
-4. [Project 10: Zyfra - Au Concentrate Prediction](#project-10-zyfra-au-concentrate-prediction)
+4. [Project 10: Gold Acquisition](#project-gold-acquisition)
 5. [Project 11: Sure Tomorrow Insurance](#project-11-sure-tomorrow-insurance)
 6. [Project 12: Rusty Bargain Car Sales Price Prediction](#project-12-rusty-bargain-car-sales-price-prediction)
 7. [Project 13: Sweet Lift Taxi Order Quantity Prediction](#project-13-sweet-lift-taxi-order-quantity-prediction)
@@ -40,7 +40,7 @@ This project involves the analysis of geological exploration data from three pro
 
 [Project 9](./Project%209)
 
-## Project 10: Zyfra Au Concentrate Prediction
+## Project 10: Gold Acquisition
 
 **Machine Learning Model Prototype for AU Concentrate Prediction at Zyfra**
 
