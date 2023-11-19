@@ -1,5 +1,5 @@
 # DS-TripleTen-ex-Practicum-Machine-Learning-Modeling
-TripleTen Data Scientist Sprint Project focuses on building machine Learning model
+TripleTen Data Scientist Sprint Project focuses on building machine learning model
 
 A summary of multiple projects within this repository
 
