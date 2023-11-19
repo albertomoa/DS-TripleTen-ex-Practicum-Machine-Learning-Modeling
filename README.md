@@ -40,7 +40,7 @@ This project involves the analysis of geological exploration data from three pro
 
 [Project 9](./Project%209)
 
-## Project 10: Zyfra - Au Concentrate Prediction
+## Project 10: Zyfra Au Concentrate Prediction
 
 **Machine Learning Model Prototype for AU Concentrate Prediction at Zyfra**
 
@@ -94,4 +94,4 @@ Film Junky Union, a community for classic movie fans, is working on a system to 
 
 Steelproof, a steel mill, wants to cut costs by reducing energy use in the steel processing stage. They melt steel in a container, correct its composition, and take samples. The aim is to predict the metal temperature during this process using a model. The goal is to keep the Mean Absolute Error (MAE) of the predictions under 6.0. This will help Steelproof enhance efficiency and save costs in their steel production.
 
-[Final Project](./Final%20Project)
+[Final Project](./Final%20project)
