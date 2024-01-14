@@ -1,6 +1,7 @@
 Integrated Project 2 : Gold Acquitition
 
 Project Overview :
+
 In the exploration of data on gold concentrate extraction and cleaning, three datasets - gold_recovery_train (87 columns, 16860 observations), gold_recovery_test (53 columns, 5865 observations), and gold_recovery_full (87 columns, 22716 observations) were analyzed. In the initial data preparation phase, all datasets were found to have missing values, addressed by filling them with the respective column medians. Assessment of gold recovery calculations using the Mean Absolute Error (MAE) highlighted the appropriateness of the calculations in the train dataset. Notably, some parameters in the train set were absent in the test set, forming the basis for feature selection in model development.
 
 Subsequently, during the data exploration phase, significant increases in Au/gold metal concentration were observed in each stage, contrasting with minimal changes in Ag/silver and Pb/lead concentrations. Similarities in particle size distribution of rougher.input.feed in train and test datasets facilitated their combined use for model development. Anomalies, characterized by metal concentrations being 0, were identified and removed from both train and test datasets.
