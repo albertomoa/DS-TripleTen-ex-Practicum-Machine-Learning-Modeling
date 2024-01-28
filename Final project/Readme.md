@@ -1,4 +1,4 @@
-Final Project : Steel Manufatur
+Final Project : Steel Manufacture
 
 Project Overview:
 For my final Tripleten project, I led an effort to reduce production costs at Steelproof, a large steel mill. It was the culmination of my studies and applied the skills I had learnt in Tripleten. The aim was to reduce energy consumption during steel processing, focusing on a predictive model with an MAE target below 6.0.
