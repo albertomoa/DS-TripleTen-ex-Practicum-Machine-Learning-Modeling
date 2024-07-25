@@ -1,4 +1,4 @@
-Integrated Project 2 : Gold Acquitition
+Integrated Project 2 : Zyfra (Au Concentrate Prediction)
 
 Project Overview :
 
